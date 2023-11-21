@@ -1,0 +1,12 @@
+Name: Darel Briones
+Email/Num.: 09152113686
+Password: darel123
+Gender: MALE
+Course: BSIT
+HOBBIES: 
+Exercising
+Reading
+Eating
+Study
+Playing Online Games
+--------------------------------------------------

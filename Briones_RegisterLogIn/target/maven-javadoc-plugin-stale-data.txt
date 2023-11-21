@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/WS/Downloads/Facebook-SignIn-SignUp-part-2-main/Briones_RegisterLogIn/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/WS/Downloads/Facebook-SignIn-SignUp-part-2-main/Briones_RegisterLogIn/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Briones_RegisterLogIn 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Briones_RegisterLogIn 1.0-SNAPSHOT API'
+com.mycompany.briones_registerlogin
+REGISTER_LOGIN
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\src\main\java = 1700346516000
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\allclasses-index.html = 1700459818927
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\allpackages-index.html = 1700459818931
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\copy.svg = 1700459818963
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\element-list = 1700459818798
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\help-doc.html = 1700459818957
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\index-all.html = 1700459818947
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\index.html = 1700459818912
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\member-search-index.js = 1700459818937
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\module-search-index.js = 1700459818933
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\overview-summary.html = 1700459818952
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\overview-tree.html = 1700459818907
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\package-search-index.js = 1700459818934
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\script.js = 1700459818962
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\search-page.js = 1700459818968
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\search.html = 1700459818950
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\search.js = 1700459818966
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\serialized-form.html = 1700459818876
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\stylesheet.css = 1700459818960
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\tag-search-index.js = 1700459818938
+C:\Users\WS\Downloads\Facebook-SignIn-SignUp-part-2-main\Briones_RegisterLogIn\target\site\apidocs\type-search-index.js = 1700459818936
